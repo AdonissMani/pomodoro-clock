@@ -1,3 +1,4 @@
 # pomodoro-clock
-https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock
+html | css | JS | React
+live demo : https://pomodoro-cl0ck.glitch.me/frame.html
 
